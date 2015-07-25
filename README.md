@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![](http://f.cl.ly/items/391y4708420P0H001k1G/meteoric.png)
 
 # Meteor Ionic Demo
@@ -14,3 +15,6 @@ See it in action here: [meteoric.github.io](http://meteoric.github.io)
 
 ## License
 [MIT License](https://github.com/meteoric/demo/blob/master/LICENSE)
+=======
+# Lamongan2
+>>>>>>> 5479dd656a6c784e4d65e30bc223b52856c9b11a
